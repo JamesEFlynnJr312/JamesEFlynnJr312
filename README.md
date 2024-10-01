@@ -1,7 +1,7 @@
 # 💫 About Me:
 Experienced Software Tester with a strong foundation in manual and automated testing. 
 Skilled in developing and executing comprehensive test plans, identifying and documenting software defects, and collaborating with developers to improve software quality.
-Highly motivated, eager to learn, energetic individual and a team player with excellent communication and interpersonal skills.
+I am highly motivated, eager to learn, energetic individual and a team player with excellent communication and interpersonal skills.
 
 
 ## 🌐 Socials:
