@@ -1,7 +1,5 @@
 ### 💫 About Me:
-Experienced Software Tester with a strong foundation in manual and automated testing. 
-Skilled in developing and executing comprehensive test plans, identifying and documenting software defects, and collaborating with developers to improve software quality.
-I am highly motivated, eager to learn, energetic individual and a team player with excellent communication and interpersonal skills.
+Professional Summary of Qualification: Experienced Software Tester with a strong foundation in manual and automated testing. Skilled in, identifying and documenting software defects, and collaborating with developers to improve software quality. Highly motivated, eager to learn, energetic individual and a team player with excellent communication and interpersonal skills. Design, develop, and execute comprehensive test plans and test cases based on system requirements and technical specifications. Performed both manual and automated testing to ensure the software meets quality standards. SAFe or agile development methodologies.
 
 
 ## 🌐 Socials:
