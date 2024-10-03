@@ -3,7 +3,7 @@ Professional Summary of Qualification: Experienced Software Tester with a strong
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/james-flynn-jr-77b2394b/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] 
 [[LinkedIn - James Flynn Jr](https://www.linkedin.com/in/james-flynn-jr-77b2394b/)]
 
 # 💻 Tech Stack:
