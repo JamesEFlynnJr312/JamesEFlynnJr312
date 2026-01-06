@@ -1,5 +1,5 @@
 # 💫 About Me:
-Professional Summary of Qualification: Experienced Software Tester with a strong foundation in manual and automated testing. Skilled in, identifying and documenting software defects, and collaborating with developers to improve software quality. Highly motivated, eager to learn, energetic individual and a team player with excellent communication and interpersonal skills. Design, develop, and execute comprehensive test plans and test cases based on system requirements and technical specifications. Performed both manual and automated testing to ensure the software meets quality standards. SAFe or agile development methodologies.
+Experienced Software Quality Assurance Engineer with over 10 years of proven success in manual and automated testing. Skilled in designing and executing test plans, regression testing, API validation, and CI/CD pipeline integration using tools such as Selenium, Karate, JIRA, and Azure DevOps. Known for improving release quality, reducing defects, and streamlining testing processes in Agile/DevOps environments. Strong collaborator who bridges technical detail with business needs to deliver stable, user‑friendly software solutions.
 
 
 # 🌐 Socials:
