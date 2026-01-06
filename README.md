@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Experienced Software Quality Assurance Engineer with over 10 years of proven success in manual and automated testing. Skilled in designing and executing test plans, regression testing, API validation, and CI/CD pipeline integration using tools such as Selenium, Karate, JIRA, and Azure DevOps. Known for improving release quality, reducing defects, and streamlining testing processes in Agile/DevOps environments. Strong collaborator who bridges technical detail with business needs to deliver stable, user‑friendly software solutions.
 
 # 💻 Tech Stack:
